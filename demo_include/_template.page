@@ -1,0 +1,10 @@
+<core.tag name="site">
+	<core.html>
+		<head>
+			<title>I was included</title>
+		</head>
+		<body>
+			<core.children />
+		</body>
+	</core.html>
+</core.tag>

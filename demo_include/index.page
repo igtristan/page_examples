@@ -1,0 +1,5 @@
+<core.include page="_template.page" />
+<site>
+	<h1>Site Title</h1>
+	<p>Site Content</p>
+</site>
